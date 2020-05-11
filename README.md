@@ -61,6 +61,7 @@ Courses
 - [6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 - [6.00	- Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+- [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 
 ------
 
@@ -271,6 +272,7 @@ Courses
 	- [10-601 - Introduction to Machine Learning (MS) - Tom Mitchell - 2015, CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
 	- [10-601 Machine Learning | CMU | Fall 2017](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
 	- [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn))
+	- [10 - 301/601 - Introduction to Machine Learning - Spring 2020 - CMU](https://www.youtube.com/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk)
 	- [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
 	- [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
 	- [CS 446 - Machine Learning, Spring 2019, UIUC](https://courses.engr.illinois.edu/cs446/sp2019/AGS/_site/)([ Fall 2016 Lectures](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O))
@@ -307,7 +309,9 @@ Courses
 	- [COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16](http://inverseprobability.com/mlai2015/)
 	- [10715 Advanced Introduction to Machine Learning](https://sites.google.com/site/10715advancedmlintro2017f/lectures)
 	- [Introduction to Machine Learning - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV)
+	- [Machine Learning - Pedro Domingos- University of Washington](https://www.youtube.com/user/UWCSE/playlists?view=50&sort=dd&shelf_id=16)
 	- [Advanced Machine Learning - 2019 - ETH Zürich](https://www.youtube.com/playlist?list=PLY-OA_xnxFwSe98pzMGVR4bjAZZYrNT7L)
+	- [Machine Learning (COMP09012)](https://www.youtube.com/playlist?list=PLyH-5mHPFffFwz7Twap0XuVeUJ8vuco9t)
 - **Data Mining**
 	- [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
 	- [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
@@ -376,6 +380,8 @@ Courses
 	- [ECE 8851: Reinforcement Learning](https://www.youtube.com/playlist?list=PL_Nk3YvgORJs1tCLQnlnSRsOJArj_cP9u)
 	- [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 	- [UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) ([YouTube](https://www.youtube.com/watch?v=2pWv7GOvuf0))
+	- [Deep RL Bootcamp - Berkeley Aug 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+	- [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
 - **Advanced Machine Learning**
 	- [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 	- [Machine Learning, 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -486,6 +492,8 @@ Courses
 	- [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
 	- [Sets, Counting and Probability - Harvard](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347)
 	- [Opinionated Lessons in Statistics](http://www.opinionatedlessons.org/) ([Youtube](https://www.youtube.com/playlist?list=PLUAHeOPjkJseXJKbuk9-hlOfZU9Wd6pS0))
+	- [Statistics - Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists)
+	- [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019) ([Lectures - Aalto University](https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22f0ec3a25-9e23-4935-873b-a9f401646812%22)) ([Book](http://www.stat.columbia.edu/~gelman/book/))
 - **Linear Algebra**
 	- [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 	- [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
@@ -565,6 +573,11 @@ Courses
 - [Theory of Computation - IIT Kanpur](https://nptel.ac.in/courses/106104028/)
 - [Logic for CS - IIT Delhi](https://nptel.ac.in/courses/106102013/)
 - [Principles of Compiler Design - Swarthmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
+- [Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+- [Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
+- [Great Ideas in Theoretical Computer Science at CMU ](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
+- [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
 
 -------------------------------
 
@@ -732,6 +745,7 @@ Courses
 - [Machine Learning for Computer Vision - TU Munich](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 - [Biometrics - IIT Kanpur](https://nptel.ac.in/courses/106104119/)
 - [Quantitative Big Imaging 2019 ETH Zurich](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
+- [Multiple View Geometry in Computer Vision](https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj)
 
 
 
@@ -760,7 +774,7 @@ Courses
 
 ----------------------------------
 ### Quantum Computing
-  - [15-859BB: Quantum Computation and Quantum Information 2018 - CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
+  - [15-859BB: Quantum Computation and Quantum Information 2018 - CMU](https://www.cs.cmu.edu/~odonnell/quantum18/) ([Youtube](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz))
   - [Quantum Mechanics for Scientists and Engineers](https://www.youtube.com/playlist?list=PL_onPhFCkVQi2O405SkNf3hv-7HXnZnMm)
   - [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
   - [Quantum Information and Computing by Prof. D.K. Ghosh](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
@@ -784,9 +798,10 @@ Courses
 - [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
 - [Introduction to Robotics Course - UNCC](https://www.youtube.com/playlist?list=PL4847E1D1C121292F)
 - [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
-- [Modern Robotics - Twente University](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdRZPGjoYchMGzTo1fE1kSL)
 - [Introduction to Vision and Robotics 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
-- [ME 597 – Autonomous Mobile Robotics – Fall 2014 - U Waterloo](http://wavelab.uwaterloo.ca/?page_id=267)
+- [ME 597 – Autonomous Mobile Robotics – Fall 2014](http://wavelab.uwaterloo.ca/index6ea9.html?page_id=267)
+- [ME 780 – Perception For Autonomous Driving – Spring 2017](http://wavelab.uwaterloo.ca/indexaef8.html?page_id=481)
+- [ME780 – Nonlinear State Estimation for Robotics and Computer Vision – Spring 2017](http://wavelab.uwaterloo.ca/indexe9a5.html?page_id=533)
 - [METR 4202/7202 -- Robotics & Automation - University of Queensland](http://robotics.itee.uq.edu.au/~metr4202/lectures.html)
 - [Robotics - IIT Bombay](https://nptel.ac.in/courses/112101099/)
 - [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
@@ -798,6 +813,16 @@ Courses
 - [Foundations of Robotics - UTEC 2018-I](https://www.youtube.com/playlist?list=PLoWGuY2dW-Acmc8V5NYSAXBxADMm1rE4p)
 - [Robotics - Youtube](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA)
 - [Robotics and Control: Theory and Practice IIT Roorkee](https://www.youtube.com/playlist?list=PLLy_2iUCG87AjAXKbNMiKJZ2T9vvGpMB0)
+- [Mechatronics](https://www.youtube.com/playlist?list=PLtuwVtW88fOeTFS_szBWif0Mcc0lfNWaz)
+- [ME142 - Mechatronics Spring 2020 - UC Merced](https://www.youtube.com/playlist?list=PL-euleXgwWUNQ80DGq6qopHBmHcQyEyNQ)
+- [Mobile Sensing and Robotics - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)
+- [MSR2 - Sensors and State Estimation Course (2020) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+- [SLAM Course (2013) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+- [ENGR486 Robot Modeling and Control (2014W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTelwaLxFXteeblbY2ytU2AxX)
+- [Robotics by Prof. D K Pratihar - IIT Kharagpur](https://www.youtube.com/playlist?list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_)
+- [Introduction to Mobile Robotics - SS 2019 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss19/robotics/)
+- [Robot Mapping - WS 2018/19 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws18/mapping/)
+- [Mechanism and Robot Kinematics - IIT Kharagpur](https://nptel.ac.in/courses/112/105/112105236/)
 
 
 ----------------------------------
